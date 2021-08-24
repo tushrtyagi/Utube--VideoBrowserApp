@@ -16,6 +16,11 @@ width:70%;
 width: 75%;
 }
 
+.desc{
+  font-weight: bold;
+  font-size:small;
+}
+
 .video-item img {
   max-width: 64px;
 }
